@@ -1,0 +1,6 @@
+WARNING No previousResults for Olivais in <closed file 'freguesias/results-LOCAL-110633.json', mode 'r' at 0x7fd6f3cc76f0>
+WARNING No previousResults for Venteira in <closed file 'freguesias/results-LOCAL-111517.json', mode 'r' at 0x7fd6f3cc76f0>
+WARNING No previousResults for Águas Livres in <closed file 'freguesias/results-LOCAL-111513.json', mode 'r' at 0x7fd6f3cc76f0>
+WARNING No previousResults for Alfragide in <closed file 'freguesias/results-LOCAL-111512.json', mode 'r' at 0x7fd6f3cc76f0>
+WARNING No previousResults for Parque das Nações in <closed file 'freguesias/results-LOCAL-110662.json', mode 'r' at 0x7fd6f3cc76f0>
+
